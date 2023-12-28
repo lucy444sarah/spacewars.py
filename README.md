@@ -1,5 +1,7 @@
 🌌🚀🌟 Welcome to Space Wars! 🌟🚀🌌
 
+![GAME!](screenshot.png)
+
 A simple and addictive game where you take control of a spaceship on a mission through the cosmic void. Your goal is to dodge incoming stars and survive as long as possible!
 
 **How to Play:**
